@@ -1,0 +1,102 @@
+
+img {
+    padding-left: 5%;
+    padding-right: 5%;
+    display: inline;
+}
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.15rem;
+    line-height: 1.15rem;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    text-align: center;
+    background-color: rgb(240, 240, 240);
+    margin: 0px 0px 0px 0px;
+}
+
+header {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.25rem;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+h1.impact {
+    font-size: 1.75rem;
+    color: grey;
+    text-decoration: underline;
+    text-align: center;
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 800;
+    text-align: center;}
+
+h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 800;
+    text-align: center;
+}
+
+p.intro {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 800;
+    text-align: center;
+}
+
+p.flavor {
+    text-align: justify;
+    
+}
+p.aside {
+    color: blue;
+}
+
+p.banner {
+    color: grey;
+    text-align: center;
+}
+
+aside {
+    border-radius: 1rem;
+    border-width: 0.25rem;
+    border-style: solid;
+    border-color: black;
+    padding: 0.5rem;
+    text-align: center;
+}
+
+ul {
+    list-style-type: square;
+    list-style-position: inside;
+    text-align: center;
+}
+li {
+    text-align: center;
+}
+
+a {
+    color: blueviolet;
+}
+    
+
+a:hover {
+    font-weight: bold;
+}
+
+a:visited {
+    color: rgb(136, 8, 8);
+}
+
+div.banner {
+    background-color: rgb(136, 8, 8);
+    padding: 1% 1% 1% 1%;
+}
